@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>LimeLight</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Mon, 26 Oct 2026 15:34:56 +0100</pubDate>
+            <link>https://github.com/peterfriese/LimeLightApp/releases</link>
+            <sparkle:version>100</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/peterfriese/LimeLightApp/releases/download/v0.1.0/LimeLight-0.1.0.dmg" length="111464992" type="application/octet-stream" sparkle:edSignature="zGsSjNljsCanzn1d7/DmREayo+ErE4At9EqrkGV6tqde5onWfiXxl02h13XfLseQYy09rNuKEoYXBCT8g3PJBQ=="/>
+            <description sparkle:format="markdown"><![CDATA[
+### Added
+- **Markdown-First Studio**: Continuous TextKit 2 Markdown editor with live two-way slide stage synchronization and single-slide focus mode (`⇧⌘E`).
+- **3-Phase Code Walkthroughs**: Animated `@code` diff choreography with token anchoring and callouts.
+- **Hand-Drawn Callouts & Diagrams**: Tapered ink-brush callouts (`^[...]`), interactive 3D isometric diagrams, and Mermaid flowcharts.
+- **Live Window & Simulator Projection**: Embed live macOS application windows (`@live-window`) and iOS Simulators (`@live-simulator`) directly inside slides.
+- **Presenter Display & Teleprompter**: Dual-display presenter view, windowed rehearsal mode (`⇧⌘W`), and voiceover narration.
+- **QuickLook & Finder Thumbnails**: Native macOS `.limelight` QuickLook preview and Finder icon thumbnails.
+]]></description>
+        </item>
+    </channel>
+</rss>
